@@ -920,3 +920,4 @@ Rebase test line locally
 
 Task 1 update test
 Local update at the end of file for auto-merge.
+Local line at the end for auto-merge strategy test

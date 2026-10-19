@@ -1,5 +1,5 @@
 
-Remote update on GitHub
+Remote update on the GitHub
 # 🧪 Lab 3 – Working with Git History, Stashing, and Reverting Commits
 
 **Estimated duration:** 3 hours  

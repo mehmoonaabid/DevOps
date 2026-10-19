@@ -911,9 +911,8 @@ You now have hands-on experience with advanced Git commands, conflict resolution
   - Your answers to the hands-on practical exam questions  
   - Your GitHub repository link showing relevant commits
 ---
-<<<<<<< HEAD
 Local update for Task 1: edited on Ubuntu.
 Local update for Task 1: edited on Ubuntu.
-=======
->>>>>>> 5101025584b6dc579aa6935892a98f3371a2d6ec
->>>>>>> Remote edit for rebase test from GitHub.
+Remote edit for rebase test from GitHub.
+Rebase test line locally
+

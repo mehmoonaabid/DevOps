@@ -195,12 +195,10 @@ This task will help you understand how Git handles file conflicts when two peopl
    - Save a screenshot of the conflict message as `conflict_message.png`.
 
 6. Open the `README.md` file in your editor — you’ll see conflict markers like this:
-   ```
-   <<<<<<< HEAD
+   `
    This line was updated locally at the same time.
-   =======
-   This line was updated remotely again.
-   >>>>>>> origin/main
+  
+   This line was updated remotely again   
    ```
    - Manually edit the file to keep the correct line (for example, merge both ideas).  
    - Save a screenshot of the resolved file as `resolved_readme.png`.
@@ -913,5 +911,8 @@ You now have hands-on experience with advanced Git commands, conflict resolution
   - Your answers to the hands-on practical exam questions  
   - Your GitHub repository link showing relevant commits
 ---
+<<<<<<< HEAD
 Local update for Task 1: edited on Ubuntu.
 Local update for Task 1: edited on Ubuntu.
+=======
+>>>>>>> 5101025584b6dc579aa6935892a98f3371a2d6ec

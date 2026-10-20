@@ -1,5 +1,5 @@
 
-Remote update on the GitHub
+
 # 🧪 Lab 3 – Working with Git History, Stashing, and Reverting Commits
 
 **Estimated duration:** 3 hours  
@@ -922,4 +922,4 @@ Task 1 update test
 Local update at the end of file for auto-merge.
 Local line at the end for auto-merge strategy test
 
-This line was added remotely for the rebase.
+This line was added remotely from GitHub
